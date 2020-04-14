@@ -15,7 +15,9 @@ module.exports = function(app) {
         db.Workout.findByIdAndUpdate(
             req.params.id,
             {
-                $push: { exercises: req.body}
+                $push: {
+                    exercises: req.body
+                }
             }
         )
         .then(dbWorkout => {
