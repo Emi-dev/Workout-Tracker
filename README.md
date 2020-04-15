@@ -16,7 +16,7 @@ This app lets you view, create, and track daily workouts. You can log multiple e
 ![Stats](public/assets/images/stats.png)
 
 ### Deployed Link
-[Click here to use the Workout Tracker app](https://secret-temple-22638.herokuapp.com/)
+[Click here to use the Workout Tracker app](https://radiant-atoll-32206.herokuapp.com/)
 
 ### Technologies
 * JavaScript
